@@ -1,3 +1,6 @@
 Este es un archivo de prueba para github
 
+
+tengo 26 años
+mi primer archivo en git
 ...
